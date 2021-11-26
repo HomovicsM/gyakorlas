@@ -37,6 +37,10 @@
 
 .newsletter h3 {
     margin-top: 0px;
+    }
+
+.newsletter #terms {
+    position: relative;
     top: 1px;
 }
 
